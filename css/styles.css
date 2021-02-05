@@ -52,19 +52,19 @@ body{
 	transform: rotateY(180deg);
 }
 .card1{
-	background-image: url(https://aomine1745.github.io/Img/bg1.jpg);
+	background-image: url(https://images.unsplash.com/photo-1579463148228-138296ac3b98?ixid=MXwxMjA3fDB8MHx0b3BpYy1mZWVkfDYyfHRvd0paRnNrcEdnfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60);
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
 .card2{
-	background-image: url(https://aomine1745.github.io/Img/bg2.jpg);
+	background-image: url(https://images.unsplash.com/photo-1611867416365-f636328625fa?ixid=MXwxMjA3fDB8MHx0b3BpYy1mZWVkfDgwfHRvd0paRnNrcEdnfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60);
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
 }
 .card3{
-	background-image: url(https://aomine1745.github.io/Img/bg3.jpg);
+	background-image: url(https://images.unsplash.com/photo-1612018887922-fa838e8b3c79?ixid=MXwxMjA3fDB8MHx0b3BpYy1mZWVkfDg4fHRvd0paRnNrcEdnfHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60);
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
